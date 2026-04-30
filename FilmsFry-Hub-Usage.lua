@@ -8,7 +8,7 @@
 -- ══════════════════════════════════════════
 -- 1. LOADSTRING USAGE (Production)
 -- ══════════════════════════════════════════
-local Hub = loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USER/FilmsFry-Hub/main/FilmsFry-Hub.lua"))()
+local Hub = loadstring(game:HttpGet("https://raw.githubusercontent.com/Obscyrizz/UI-LIBRARY/refs/heads/main/FilmsFry-Hub.lua"))()
 
 -- ══════════════════════════════════════════
 -- 2. CREATE WINDOW
